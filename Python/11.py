@@ -1,0 +1,12 @@
+lista = []
+num1 = int(input('Digite o primeiro número inteiro: '))
+lista.append(num1)
+num2 = int(input('Digite o segundo número inteiro: '))
+lista.append(num2)
+num3 = int(input('Digite o terceiro número inteiro: '))
+lista.append(num3)
+num4 = int(input('Digite o quarto número inteiro: '))
+lista.append(num4)
+num5 = int(input('Digite o quinto número inteiro: '))
+lista.append(num5)
+print(lista)
